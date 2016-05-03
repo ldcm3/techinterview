@@ -77,9 +77,7 @@ vector<vector<int> >threeSum(vector<int> &A)
                         else
                                 k--;
                         
-        
         }
-                
     }
     return ans;      
 }
