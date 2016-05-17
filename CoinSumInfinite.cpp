@@ -33,5 +33,4 @@ int solve(vector<int> S, int m, int n)
 int coinchange2(vector<int> &A, int B) {
     
     return solve(A,A.size(),B) % 1000007;
-    
 }
