@@ -1,4 +1,4 @@
-*/ You are given a set of coins S. In how many ways can you make sum N assuming you have infinite amount of each coin in the set.
+/* You are given a set of coins S. In how many ways can you make sum N assuming you have infinite amount of each coin in the set.
 
 Lucas Mendes
 
